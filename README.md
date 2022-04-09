@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I went to university of Delaware’s Alfred learner college and received a Bachelor of Science in Applied Economics. I worked in finance for a few years at Morgan Stanley. Then decided to make a career change to data analysis and got a Certificate in Data Analysis & Visualization from University of Pennsylvania, The College of Liberal and Professional Studies. 
 I am always looking for new projects to test and refine my coding skills.  Some projects that I have completed are:
 
-#City Bike Tableau Project
+# City Bike Tableau Project
 The purpose of this project was to see how over the course of 2 years how City Bike usage changed in the state of New York. A map was created of all the end bike stations and each of the stations is color coded to see how often that station was used in a specific year. Then the relationship between gender and bike usages was looked at for both years and displayed in a graph. Age was another factor that was looked. A bubble chat was great and a line graph was used to display the trends in age. 
 Role: sole author 
 Tools: Tableau
