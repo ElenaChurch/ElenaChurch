@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I went to university of Delaware’s Alfred learner college and received a Bachelor of Science in Applied Economics. I worked in finance for a few years at Morgan Stanley. Then decided to make a career change to data analysis and got a Certificate in Data Analysis & Visualization from University of Pennsylvania, The College of Liberal and Professional Studies. 
+I went to university of Delaware’s Alfred learner college and received a Bachelor of Science in Applied Economics. I worked in finance for a 3 years at Morgan Stanley. Then decided to make a career change to data analysis and got a Certificate in Data Analysis & Visualization from University of Pennsylvania, The College of Liberal and Professional Studies. 
 I am always looking for new projects to test and refine my coding skills.  Some projects that I have completed are:
 
 #### City Bike Tableau Project
